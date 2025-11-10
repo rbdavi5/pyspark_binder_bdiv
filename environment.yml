@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python=3.11
   - openjdk=11
-  - pyspark
+  - pyspark=3.5
   - jupyterlab
   - pandas
+  - matplotlib
