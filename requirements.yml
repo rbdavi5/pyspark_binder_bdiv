@@ -1,0 +1,9 @@
+name: pyspark-binder
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pyspark
+  - openjdk=11
+  - jupyterlab
+  - pandas
